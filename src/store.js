@@ -14,4 +14,4 @@ class Store {
   //write()
 }
 
-module.exports = Store;
+module.exports = Store();
