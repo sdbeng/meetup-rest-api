@@ -1,4 +1,4 @@
-//express api
+//express api v.01
 const express = require("express");
 const apiRoutes = require("./routes/apiRoutes");
 /*
@@ -6,14 +6,7 @@ rest
 home route: /
 /api/notes
 mockup data: json file
-//conflicting with spacenames
 
-var name = 'Harry'/no no
-
-let name = []
-const pi = 3.14
-
-pi = 1000 //big err
 */
 //instance of express
 
